@@ -28,7 +28,7 @@ ul>li {
   width:80px; height:80px; background:linear-gradient(70deg, #304577, #4c65a0);
   border:1px solid #354971; border-radius:4px; margin-left:22px;
 }
-ul>li:last-child(margin-left:22px;)
+ul>li:last-child{margin-left:0px}
 ul>li.h3 {margin-top:-20px;}
 
 
